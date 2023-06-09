@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">bluetooth_teaching</string>
+    <string name="sc_switch">Off Client / On Server</string>
+    <string name="btn">開始</string>
+    <string name="btn2">搜尋指定裝置</string>
+</resources>
